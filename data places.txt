@@ -1,0 +1,143 @@
+{
+  "_id": {
+    "$oid": "5b41745758da0d04d83dbec5"
+  },
+  "messid": "1",
+  "messname": "NEDELKA",
+  "messtype": "cafe",
+  "messinfo": "Good coffee, nice place to relax and chill",
+  "messlon": "76.953444",
+  "messlat": "43.2433634"
+}
+{
+  "_id": {
+    "$oid": "5b4174e658da0d04d83dd7b0"
+  },
+  "messid": "2",
+  "messname": "three oranges",
+  "messtype": "cafe",
+  "messinfo": "not expensive place with good services",
+  "messlon": "76.9522885",
+  "messlat": "43.2431603"
+}
+{
+  "_id": {
+    "$oid": "5b41762758da0d04d83e0a79"
+  },
+  "messid": "3",
+  "messname": "RIXOS Almaty",
+  "messtype": "Hotels",
+  "messinfo": "Luxury hotel, for high quality vacation",
+  "messlon": "76.933840",
+  "messlat": "43.249319"
+}
+{
+  "_id": {
+    "$oid": "5b41767058da0d04d83e181d"
+  },
+  "messid": "4",
+  "messname": "Ritz-Carlton Almaty",
+  "messtype": "Hotels",
+  "messinfo": "Luxury hotel, for high quality vacation",
+  "messlon": "76.929571",
+  "messlat": "43.219364"
+}
+{
+  "_id": {
+    "$oid": "5b41771f58da0d04d83e257c"
+  },
+  "messid": "5",
+  "messname": "LES",
+  "messtype": "Hostels",
+  "messinfo": "Nice hostel, good feedbacks in the internet",
+  "messlon": "76.948537",
+  "messlat": "43.240177"
+}
+{
+  "_id": {
+    "$oid": "5b41777458da0d04d83e2d69"
+  },
+  "messid": "6",
+  "messname": "Nice hostel",
+  "messtype": "Hostels",
+  "messinfo": "It is enough to know the name",
+  "messlon": "76.947527",
+  "messlat": "43.247837"
+}
+{
+  "_id": {
+    "$oid": "5b4177d858da0d04d83e3956"
+  },
+  "messid": "7",
+  "messname": "China Gold",
+  "messtype": "Restaurants",
+  "messinfo": "Expensive, place to party hard",
+  "messlon": "76.922354",
+  "messlat": "43.213362"
+}
+{
+  "_id": {
+    "$oid": "5b41783958da0d04d83e467e"
+  },
+  "messid": "8",
+  "messname": "Villa Boutiques & Restaurants",
+  "messtype": "Restaurants",
+  "messinfo": "Great place to meet with friends and family",
+  "messlon": "76.920502",
+  "messlat": "43.211657"
+}
+{
+  "_id": {
+    "$oid": "5b41789058da0d04d83e5ce7"
+  },
+  "messid": "9",
+  "messname": "Mega Center Almaty",
+  "messtype": "Shoppingcenter",
+  "messinfo": "A lot of brands",
+  "messlon": "76.893484",
+  "messlat": "43.200816"
+}
+{
+  "_id": {
+    "$oid": "5b4178d658da0d04d83e6686"
+  },
+  "messid": "10",
+  "messname": "Dostyk Plaza",
+  "messtype": "Shoppingcenter",
+  "messinfo": "Top brands and nice cinema",
+  "messlon": "76.956058",
+  "messlat": "43.233894"
+}
+{
+  "_id": {
+    "$oid": "5b41793a58da0d04d83e70de"
+  },
+  "messid": "11",
+  "messname": "Family Park",
+  "messtype": "Attraction",
+  "messinfo": "Fresh air, nice to walking",
+  "messlon": "76.852108",
+  "messlat": "43.228065"
+}
+{
+  "_id": {
+    "$oid": "5b4179c758da0d04d83e8637"
+  },
+  "messid": "12",
+  "messname": "Magnum",
+  "messtype": "Supermarkets",
+  "messinfo": "BIGGEST in Almaty",
+  "messlon": "76.898806",
+  "messlat": "43.206376"
+}
+{
+  "_id": {
+    "$oid": "5b417a5e58da0d04d83e9571"
+  },
+  "messid": "13",
+  "messname": "Mukhtar Auezov Kazakh State Academic Drama Theater",
+  "messtype": "Culture",
+  "messinfo": "Culturistic",
+  "messlon": "76.917941",
+  "messlat": "43.241142"
+}
